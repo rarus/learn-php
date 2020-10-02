@@ -27,6 +27,7 @@ PROFIT!
 
 Обязательно
 - [Скобки](https://github.com/rarus/learn-php/blob/master/task01-brackets.md) — реализовать самый простой алгоритм для дальнейшего переиспользования
+
 Дополнительно
 - [Форма обратной связи](https://github.com/rarus/learn-php/blob/master/task02-feedback-form.md) — очередная форма заявки для сайта
 - [Книги](https://github.com/rarus/learn-php/blob/master/task03-books.md) — иногда вам придётся писать SQL-код
